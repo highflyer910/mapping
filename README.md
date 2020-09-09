@@ -7,8 +7,3 @@ It shows:
 
 <img src="https://res.cloudinary.com/highflyer910/image/upload/v1595541842/Screenshot_3_zmfcto.jpg">
 
-Run:
-
-```
-python map.py
-```
